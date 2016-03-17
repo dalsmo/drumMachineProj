@@ -1,0 +1,9 @@
+
+*.mp3
+
+*.wav
+
+venv/
+
+vlc.py
+vlc.pyc
