@@ -1,8 +1,4 @@
 
-*.mp3
-
-*.wav
-
 venv/
 
 vlc.py
